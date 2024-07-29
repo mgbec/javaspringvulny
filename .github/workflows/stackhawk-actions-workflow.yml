@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with GitHub Actions
+# basic workflow to help you get started with GitHub Actions
 name: StackHawk Actions
 # Controls when the workflow will run
 on:
